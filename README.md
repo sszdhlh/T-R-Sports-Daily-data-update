@@ -1,6 +1,6 @@
 # T-R-Sports-Daily-data-update
-update the preorder data
-# Daily Data Script - Pre-sale Quantity Update
+1. update the preorder data.
+2. Daily Data Script - Pre-sale Quantity Update
 
 ## Contents
 - [Cin7 Data](#cin7-data)
